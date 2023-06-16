@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T22:21:18 IST" name="Default suite" finished-at="2023-01-27T22:22:33 IST" duration-ms="75092">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T22:21:18 IST" name="Default test" finished-at="2023-01-27T22:22:33 IST" duration-ms="75092">
+      <class name="BanjaraRide.BanjaraRide">
+        <test-method is-config="true" signature="bt()[pri:0, instance:BanjaraRide.BanjaraRide@c8c12ac]" started-at="2023-01-27T22:21:18 IST" name="bt" finished-at="2023-01-27T22:21:35 IST" duration-ms="17382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="Bookings_CallUs()[pri:0, instance:BanjaraRide.BanjaraRide@c8c12ac]" started-at="2023-01-27T22:21:35 IST" name="Bookings_CallUs" finished-at="2023-01-27T22:22:31 IST" duration-ms="56029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bookings_CallUs -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:BanjaraRide.BanjaraRide@c8c12ac]" started-at="2023-01-27T22:22:32 IST" name="afterTest" finished-at="2023-01-27T22:22:33 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- BanjaraRide.BanjaraRide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
